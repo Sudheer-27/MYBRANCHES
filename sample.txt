@@ -2,3 +2,4 @@
 <h2>This is Second Heading Tag </h2>
 <h3>This is Third Heading Tag </h3>
 <h4>This is Fourth Heading Tag </h4>
+<h6>This is Sixth Heading Tag added in Master </h6>
